@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.korveld",
+    "sha256_cert_fingerprints":
+    ["C0:9D:61:0E:50:12:E9:8C:3A:71:29:10:B4:7E:38:97:3B:85:8C:43:7F:19:7C:3C:C2:47:10:B6:64:D5:26:41"]
+  }
+}]
