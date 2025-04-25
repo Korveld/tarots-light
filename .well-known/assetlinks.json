@@ -12,7 +12,7 @@
 		"relation": ["delegate_permission/common.handle_all_urls"],
 		"target": {
 			"namespace": "android_app",
-			"package_name": "com.kaiserex",
+			"package_name": "com.korveld.kaiserex",
 			"sha256_cert_fingerprints": [
 				"34:35:EB:9B:F5:27:DA:7E:94:22:66:34:2D:60:E1:E2:3C:4B:BC:56:BC:9F:E5:57:AA:1C:A4:54:1B:F5:25:3C"
 			]
