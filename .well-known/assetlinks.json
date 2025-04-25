@@ -1,9 +1,22 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.korveld",
-    "sha256_cert_fingerprints":
-    ["C0:9D:61:0E:50:12:E9:8C:3A:71:29:10:B4:7E:38:97:3B:85:8C:43:7F:19:7C:3C:C2:47:10:B6:64:D5:26:41"]
-  }
-}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.korveld",
+      "sha256_cert_fingerprints":
+      ["C0:9D:61:0E:50:12:E9:8C:3A:71:29:10:B4:7E:38:97:3B:85:8C:43:7F:19:7C:3C:C2:47:10:B6:64:D5:26:41"]
+    }
+  },
+  {
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.korveld.kaiserex",
+			"sha256_cert_fingerprints": [
+				"FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+				"F7:37:5A:1C:C8:AE:A9:CB:52:23:FF:88:F8:E8:3D:26:93:58:1A:0A:24:69:70:FF:EA:22:93:8A:D7:06:F8:4D"
+			]
+		}
+	}
+]
